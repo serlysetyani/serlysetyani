@@ -16,4 +16,4 @@
 
 ### Find me on:
 
-<a href="https://dribbble.com/serlysetyani"><img width="40px" align="left" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Dribbble-512.png" ></a>
+<a href="https://dribbble.com/serlysetyani"><img width="30px" align="left" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Dribbble-512.png" ></a>
