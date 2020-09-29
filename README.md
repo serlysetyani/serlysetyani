@@ -3,3 +3,6 @@
 - 🔭 I’m currently pursuing my bachelor degree of Informatics at Telkom Univeristy
 - 🌱 I’m currently learning UI/UX design and computer network
 - 😄 Pronouns: she/her
+
+### Portofolio & CV:
+<link href="https://dribbble.com/serlysetyani"><img width="26px" align="left" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png"></>
