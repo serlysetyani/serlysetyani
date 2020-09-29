@@ -13,7 +13,9 @@
 <img width="26px" align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
 <img width="26px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png">
 <br>
+<br>
 
 ### Find me on:
 
 <a href="https://dribbble.com/serlysetyani"><img width="30px" align="left" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Dribbble-512.png" ></a>
+<a href="https://www.linkedin.com/in/serly-s-85087b139/"><img width="30px" align="left" src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" ></a>
