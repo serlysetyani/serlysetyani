@@ -5,4 +5,4 @@
 - 😄 Pronouns: she/her
 
 ### Portofolio & CV:
-<link href="https://dribbble.com/serlysetyani"><img width="26px" align="left" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png"></>
+<img width="26px" align="left" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" href="https://dribbble.com/serlysetyani">
