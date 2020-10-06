@@ -1,7 +1,7 @@
 ### Hi there, I'm Serly Setyani 👋
 
 - 🔭 I’m currently pursuing a bachelor degree of Informatics at Telkom Univeristy
-- 🌱 I’m currently learning UI/UX design and computer network
+- 🌱 I’m currently love learning UI/UX design, Front-end ,and Computer Network
 - 😄 Pronouns: she/her
 
 ### Tools:
