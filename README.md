@@ -20,5 +20,5 @@
 
 [instagram]: https://instagram.com/serlysetyani
 [linkedin]: https://linkedin.com/in/serlysetyani
-[medium]: https://medium.com/@serlysetyani
+[medium]: https://serlysetyani.medium.com
 [blog]: https://serlysetyani.github.io
