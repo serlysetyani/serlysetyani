@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Flutter & React Native
 
 #### 📫 How to reach me
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)][medium]
 [![Blog](https://img.shields.io/website?label=serlysetyani.github.io&style=for-the-badge&url=https%3A%2F%2Fserlysetyani.github.io)](https://serlysetyani.github.io)
