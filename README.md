@@ -13,12 +13,11 @@
 
 #### 📈 Languages & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serlysetyani&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serlysetyani&hide=&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serlysetyani&count_private=true&show_icons=true&bg_color=d3e8e4" alt="devded" width="420"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serlysetyani&hide=&langs_count=8&layout=compact&bg_color=d3e8e4" alt="devded" height="165" />
 </p>
 
 
-[instagram]: https://instagram.com/serlysetyani
 [linkedin]: https://linkedin.com/in/serlysetyani
 [medium]: https://serlysetyani.medium.com
 [blog]: https://serlysetyani.github.io
