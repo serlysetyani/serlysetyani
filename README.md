@@ -2,7 +2,7 @@
 
 <img src="https://github.com/serlysetyani/serlysetyani/blob/master/Frame%201.svg">
 
-- 🔭 I’m currently working on Digiflux Indonesia as intern UI designer
+- 🔭 I’m currently working as Freelance UI/UX Designer on [Fiverr](https://www.fiverr.com/serlysetyani)
 - 🌱 I’m currently learning Flutter & React Native
 
 #### 📫 How to reach me
