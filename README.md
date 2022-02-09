@@ -2,8 +2,8 @@
 
 <img src="https://github.com/serlysetyani/serlysetyani/blob/master/Frame%201.svg">
 
-- 🔭 I’m currently working as Freelance UI/UX Designer on [Fiverr](https://www.fiverr.com/serlysetyani)
-- 🌱 I’m currently learning Flutter & React Native
+- 🔭 I’m currently working as UI/UX Designer at [Bank BTPN](https://www.btpn.com/)
+- 🌱 I’m currently learning frontend development & UI/UX Design
 
 #### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
