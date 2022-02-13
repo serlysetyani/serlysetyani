@@ -1,6 +1,6 @@
 ### Hola, I'm Serly 👋
 
-<img src="https://github.com/serlysetyani/serlysetyani/blob/master/Frame%201.svg">
+<img src="https://github.com/serlysetyani/serlysetyani/blob/master/Frame%204.svg">
 
 - 🔭 I’m currently working as UI/UX Designer at [Bank BTPN](https://www.btpn.com/)
 - 🌱 I’m currently learning frontend development & UI/UX Design
