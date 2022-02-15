@@ -3,6 +3,7 @@
 ### Hi, I'm Serly <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 - 🔭 I’m currently working as UI/UX Designer at [Bank BTPN](https://www.btpn.com/)
 - 🌱 I’m currently learning frontend development & UI/UX Design
+- 🔓 Open for freelance project slicing / convert design to a website, UI/UX design
 
 #### 📫 How to reach me
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
